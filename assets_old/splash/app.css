@@ -1,0 +1,87 @@
+body {
+    font-family: 'montserrat' sans-serif;
+    overflow-x: hidden;
+}
+
+.navbar-nav li a:hover {
+    color: #fbb034 !important;
+}
+
+.nav {
+    background-color: initial !important;
+}
+
+#nav::before {
+    content: "";
+    width: 100vw;
+    min-height: 50vh;
+    background: url('./asset/Contactbanner3.jpg') no-repeat center;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    opacity: 0.1;
+
+
+}
+
+#home:hover {
+    cursor: pointer !important;
+    color: blue;
+
+}
+
+#text {
+    color: black;
+}
+
+.form-control {
+    background-color: #f4f4f4 !important;
+}
+
+.FooterLink:hover {
+    color: #fbb034 !important;
+
+}
+
+#btn:hover {
+    background-color: rgb(29, 126, 230) !important;
+}
+
+#popTitle {
+    width: 22rem;
+    position: absolute;
+    top: 85%;
+    left: 45%;
+
+}
+
+#box3 {
+    /* background: url('./asset/box3Banner.jpg') no-repeat center; */
+    background-image:
+    linear-gradient(to right, rgba(52, 164, 239, 0.701) 6.78%, rgba(39, 126, 225, 0.5) 94.1%),
+                url('./asset/box3Banner.jpg');
+    /* background-size: cover; */
+    height:54% !important;
+    width: 100vw;
+}
+
+.imageHov:hover{ 
+    background-color:rgb(72, 114, 253);
+    cursor: pointer;
+}
+.imageHov1:hover{ 
+    color:rgb(72, 114, 253);
+    cursor: pointer;
+}
+.warn:hover{ 
+    color: #fbb034;
+    list-style: none;
+    text-decoration: none;
+}
+
+.warn2:hover{ 
+    background-color: #fbb034;
+    list-style: none;
+    text-decoration: none;
+}

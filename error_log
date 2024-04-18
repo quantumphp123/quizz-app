@@ -1,0 +1,41 @@
+[16-Nov-2022 07:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInitd5b3ad46c4710827a384465afb235182' not found in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php:12
+Stack trace:
+#0 /home/zvrkhy0rfgh9/public_html/projects/quizapp/public/index.php(34): require()
+#1 /home/zvrkhy0rfgh9/public_html/projects/quizapp/index.php(21): require_once('/home/zvrkhy0rf...')
+#2 {main}
+  thrown in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php on line 12
+[16-Nov-2022 07:44:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInitd5b3ad46c4710827a384465afb235182' not found in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php:12
+Stack trace:
+#0 /home/zvrkhy0rfgh9/public_html/projects/quizapp/public/index.php(34): require()
+#1 /home/zvrkhy0rfgh9/public_html/projects/quizapp/index.php(21): require_once('/home/zvrkhy0rf...')
+#2 {main}
+  thrown in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php on line 12
+[16-Nov-2022 07:44:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInitd5b3ad46c4710827a384465afb235182' not found in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php:12
+Stack trace:
+#0 /home/zvrkhy0rfgh9/public_html/projects/quizapp/public/index.php(34): require()
+#1 /home/zvrkhy0rfgh9/public_html/projects/quizapp/index.php(21): require_once('/home/zvrkhy0rf...')
+#2 {main}
+  thrown in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php on line 12
+[16-Nov-2022 07:50:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInitea890d7e247bd01432dd7b0626ac0053' not found in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php:12
+Stack trace:
+#0 /home/zvrkhy0rfgh9/public_html/projects/quizapp/public/index.php(34): require()
+#1 /home/zvrkhy0rfgh9/public_html/projects/quizapp/index.php(21): require_once('/home/zvrkhy0rf...')
+#2 {main}
+  thrown in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php on line 12
+[16-Nov-2022 07:57:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ComposerAutoloaderInitea890d7e247bd01432dd7b0626ac0053' not found in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php:12
+Stack trace:
+#0 /home/zvrkhy0rfgh9/public_html/projects/quizapp/public/index.php(34): require()
+#1 /home/zvrkhy0rfgh9/public_html/projects/quizapp/index.php(21): require_once('/home/zvrkhy0rf...')
+#2 {main}
+  thrown in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php on line 12
+[16-Nov-2022 07:59:10 UTC] PHP Warning:  require(/home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_static.php): failed to open stream: No such file or directory in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_real.php on line 31
+[16-Nov-2022 07:59:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_static.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_real.php on line 31
+[16-Nov-2022 07:59:11 UTC] PHP Warning:  require(/home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_static.php): failed to open stream: No such file or directory in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_real.php on line 31
+[16-Nov-2022 07:59:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_static.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_real.php on line 31
+[16-Nov-2022 08:00:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Composer\Autoload\ComposerStaticInitea890d7e247bd01432dd7b0626ac0053' not found in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_real.php:32
+Stack trace:
+#0 /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/autoload.php(12): ComposerAutoloaderInitea890d7e247bd01432dd7b0626ac0053::getLoader()
+#1 /home/zvrkhy0rfgh9/public_html/projects/quizapp/public/index.php(34): require('/home/zvrkhy0rf...')
+#2 /home/zvrkhy0rfgh9/public_html/projects/quizapp/index.php(21): require_once('/home/zvrkhy0rf...')
+#3 {main}
+  thrown in /home/zvrkhy0rfgh9/public_html/projects/quizapp/vendor/composer/autoload_real.php on line 32
